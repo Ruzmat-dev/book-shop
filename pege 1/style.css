@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body {
+    background-image: url(img/Login1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+ .main {
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    margin-top: 15%;
+ }
+/*
+.liner {
+    background: none;
+}
+.main h1 {
+    color: white;
+}
+.header-password {
+    color: white;
+}
+.siz-header {
+    margin-top: 2000px;
+    width: 300px;
+    margin: auto;
+}
+
+.form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    background: none;
+}
+#submitForum h6 {
+    color: white;
+} */
